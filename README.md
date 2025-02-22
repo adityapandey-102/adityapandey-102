@@ -1,17 +1,16 @@
 <h1 align="center">
   Hi, I'm Aditya Pandey! 👋
 </h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF">
-</p>
-
-<p align="center">
-  <strong>Full-Stack Developer | MERN Stack | Open Source Contributor</strong>
-</p>
-
----
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <h3>Full-Stack Developer | MERN Stack | Open Source Contributor</h3>
+    </td>
+    <td align="center">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF">
+    </td>
+  </tr>
+</table>
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
@@ -23,8 +22,9 @@
 🔹 Exploring **AI & Robotics** for future innovations.  
 🔹 Open to collaborations and exciting projects.  
 
----
+<br>
 
+---
 <h2 align="center">🛠 Tech Stack</h2>
 
 <table align="center">
@@ -61,6 +61,8 @@
 ✔ Contribute quality code & resolve issues.  
 ✔ Improve documentation & project structure.  
 ✔ Collaborate on innovative ideas.  
+
+<br>
 
 ---
 
