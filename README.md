@@ -49,7 +49,7 @@
 <h2 align="center">🌟 What I Can Do for You</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="200" align="right" alt="Work GIF">
+  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="180" align="right" alt="Work GIF">
 </p>
 
 🔹 **For Companies & Clients:**  
