@@ -40,7 +40,7 @@
     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" width="40"><br>Express.js</td>
     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="40"><br>MongoDB</td>
     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="40"><br>TypeScript</td>
-    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/docker.svg" width="40"><br>Docker</td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="40"><br>Docker</td>
   </tr>
 </table>
 
