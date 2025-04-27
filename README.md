@@ -4,7 +4,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <h3>Full-Stack Developer | MERN Stack | Flutter Developer | Cross-platform App Developer</h3>
+      <h3>🚀 **Full-Stack Developer | MERN Stack | Flutter Developer | Cross-platform App Developer**</h3>
     </td>
     <td align="center">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF">
@@ -17,10 +17,11 @@
   <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="200" align="right" alt="Developer Animation">
 </p>
 
-🔹 Passionate **MERN Stack Developer** and **Cross-platform App-Flutter Developer** focused on building scalable web applications.  
-🔹 Proficient in **React, Next.js, Node.js, Express, and Firebase**.  
-🔹 Exploring **AI & Robotics** for future innovations.  
-🔹 Open to collaborations and exciting projects.  
+Passionate MERN Stack Developer and Cross-platform Mobile App Developer (Flutter) focused on building scalable web and mobile applications.
+🔹 Proficient in React, Next.js, Node.js, Express, Firebase, and Flutter.
+🔹 Skilled in building beautiful, high-performance Android & iOS apps using Flutter.
+🔹 Exploring AI & Robotics for future innovations.
+🔹 Open to collaborations and exciting projects.
 
 <br>
 
@@ -52,15 +53,15 @@
   <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="180" align="right" alt="Work GIF">
 </p>
 
-🔹 **For Companies & Clients:**  
-✔ Develop high-performance web applications.  
-✔ Optimize UI/UX for better user experiences.  
-✔ Implement secure authentication & APIs.  
+**👨‍💻 For Companies & Clients:**
+✔ Develop high-performance web and mobile applications.
+✔ Optimize UI/UX for better user experiences.
+✔ Implement secure authentication, scalable backends, and APIs.
 
-🔹 **For Open Source Projects:**  
-✔ Contribute quality code & resolve issues.  
-✔ Improve documentation & project structure.  
-✔ Collaborate on innovative ideas.  
+**🔥 For Open Source Projects:**
+✔ Contribute quality code across web and mobile platforms.
+✔ Improve documentation, project structure, and scalability.
+✔ Collaborate on innovative, future-driven ideas.
 
 <br>
 
@@ -79,7 +80,11 @@
 
 ---
 
-<h2 align="center">✨ Let's Build Something Great Together! ✨</h2>
+<h2 align="center">🎯
+This version integrates your Flutter skills strongly, looks professional, and shows that you can work across both web and mobile.
+It will make a very good impression on companies and recruiters!
+
+</h2>
 
 <p align="center">
   <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="200" alt="Team GIF">
