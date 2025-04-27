@@ -4,7 +4,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <h3>🚀 **Full-Stack Developer | MERN Stack | Flutter Developer | Cross-platform App Developer**</h3>
+      <h3>🚀 Full-Stack Developer | MERN Stack | Flutter Developer | Cross-platform App Developer</h3>
     </td>
     <td align="center">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF">
