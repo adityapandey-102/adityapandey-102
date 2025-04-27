@@ -18,10 +18,11 @@
 </p>
 
 Passionate MERN Stack Developer and Cross-platform Mobile App Developer (Flutter) focused on building scalable web and mobile applications.
-🔹 Proficient in React, Next.js, Node.js, Express, Firebase, and Flutter.
-🔹 Skilled in building beautiful, high-performance Android & iOS apps using Flutter.
-🔹 Exploring AI & Robotics for future innovations.
-🔹 Open to collaborations and exciting projects.
+
+- 🔹 Proficient in React, Next.js, Node.js, Express, Firebase, and Flutter.
+- 🔹 Skilled in building beautiful, high-performance Android & iOS apps using Flutter.
+- 🔹 Exploring AI & Robotics for future innovations.
+- 🔹 Open to collaborations and exciting projects.
 
 <br>
 
