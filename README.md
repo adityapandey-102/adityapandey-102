@@ -4,7 +4,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <h3>🚀 Full-Stack Developer | MERN Stack | Flutter Developer | Cross-platform App Developer</h3>
+      # 🚀 Full-Stack Developer | MERN Stack | Flutter Developer | Cross-platform App Developer
     </td>
     <td align="center">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF">
@@ -54,15 +54,10 @@ Passionate MERN Stack Developer and Cross-platform Mobile App Developer (Flutter
   <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="180" align="right" alt="Work GIF">
 </p>
 
-**👨‍💻 For Companies & Clients:**
-✔ Develop high-performance web and mobile applications.
-✔ Optimize UI/UX for better user experiences.
-✔ Implement secure authentication, scalable backends, and APIs.
-
-**🔥 For Open Source Projects:**
-✔ Contribute quality code across web and mobile platforms.
-✔ Improve documentation, project structure, and scalability.
-✔ Collaborate on innovative, future-driven ideas.
+## 🔥 For Open Source Projects:
+- ✔ Contribute quality code across web and mobile platforms.
+- ✔ Improve documentation, project structure, and scalability.
+- ✔ Collaborate on innovative, future-driven ideas.
 
 <br>
 
