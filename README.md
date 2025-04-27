@@ -76,7 +76,7 @@ Passionate MERN Stack Developer and Cross-platform Mobile App Developer (Flutter
 
 ---
 
-<h2 align="center">🎯
+<h3 align="center">🎯
 This version integrates your Flutter skills strongly, looks professional, and shows that you can work across both web and mobile.
 It will make a very good impression on companies and recruiters!
 
