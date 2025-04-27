@@ -4,7 +4,7 @@
 <table align="center">
   <tr>
     <td align="center">
-      <h3>Full-Stack Developer | MERN Stack | Open Source Contributor</h3>
+      <h3>Full-Stack Developer | MERN Stack | Flutter Developer | Cross-platform App Developer</h3>
     </td>
     <td align="center">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF">
@@ -17,7 +17,7 @@
   <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="200" align="right" alt="Developer Animation">
 </p>
 
-🔹 Passionate **MERN Stack Developer** focused on building scalable web applications.  
+🔹 Passionate **MERN Stack Developer** and **Cross-platform App-Flutter Developer** focused on building scalable web applications.  
 🔹 Proficient in **React, Next.js, Node.js, Express, and Firebase**.  
 🔹 Exploring **AI & Robotics** for future innovations.  
 🔹 Open to collaborations and exciting projects.  
@@ -30,10 +30,10 @@
 <table align="center">
   <tr>
     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="40"><br>HTML5</td>
-    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="40"><br>CSS3</td>
     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="40"><br>JavaScript</td>
     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="40"><br>React.js</td>
     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="40"><br>Next.js</td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" width="40"><br>Flutter</td>
   </tr>
   <tr>
     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="40"><br>Node.js</td>
