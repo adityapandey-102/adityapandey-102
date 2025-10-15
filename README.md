@@ -5,8 +5,8 @@
 <table align="center">
   <tr>
     <td align="center">
-      <h2>🚀 Frontend Engineer | React & React Native | Cross-Platform Developer</h2>
-      <p>Building scalable web & mobile applications with modern technologies</p>
+      <h2>🚀 Frontend & Fullstack Developer | React, React Native | DevOps Enthusiast</h2>
+      <p>Building scalable web & mobile apps and mastering modern DevOps practices</p>
     </td>
     <td align="center">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF">
@@ -20,14 +20,15 @@
 
 <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="200" align="right" alt="Developer Animation">
 
-I’m a **Frontend Engineer** passionate about crafting scalable, high-performance web and mobile applications.  
+I’m a **Frontend & Fullstack Engineer** passionate about building high-performance applications and learning cloud-native deployment practices.  
 
-- 🔹 Strong in **React.js, React Native, Next.js, and TypeScript**  
-- 🔹 Experienced in **State Management**: Redux Toolkit, React Query  
-- 🔹 Skilled in **Flutter & Dart** for cross-platform mobile apps  
-- 🔹 Backend knowledge: Node.js, Express.js, REST APIs, PostgreSQL, MongoDB  
-- 🔹 Real-time systems: **WebSockets, SSE, Polling**  
-- 🔹 **Performance Optimization Expert**: Lazy Loading, Code Splitting, Asset Optimization, Rendering Optimization, Lighthouse & Core Web Vitals  
+- 🔹 Strong in **React.js, React Native, Next.js, TypeScript**  
+- 🔹 State Management: **Redux Toolkit, Zustand, React Query**  
+- 🔹 Backend: **Node.js, Express.js, MongoDB, PostgreSQL**  
+- 🔹 Security & Performance: **Bot Detection, Rate Limiting, JWT Auth, Lazy Loading, Code Splitting**  
+- 🔹 Logging & Monitoring: **Winston, Morgan**  
+- 🔹 Real-time & Async: **WebSockets, SSE, API Optimization**  
+- 🔹 Currently learning: **Docker, Kubernetes, CI/CD with GitHub Actions**  
 - 🔹 Enthusiastic about **AI & Robotics** for future innovations  
 
 ---
@@ -37,17 +38,24 @@ I’m a **Frontend Engineer** passionate about crafting scalable, high-performan
 <table align="center">
   <tr>
     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="40"><br>React.js</td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" width="40"><br>React Native</td>
     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="40"><br>Next.js</td>
     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="40"><br>TypeScript</td>
     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/redux.svg" width="40"><br>Redux Toolkit</td>
-    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" width="40"><br>Flutter</td>
   </tr>
   <tr>
     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="40"><br>Node.js</td>
     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" width="40"><br>Express.js</td>
     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="40"><br>MongoDB</td>
     <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="40"><br>PostgreSQL</td>
-    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/google-lighthouse.svg" width="40"><br>Performance (Lighthouse)</td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/google-lighthouse.svg" width="40"><br>Performance</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/docker.svg" width="40"><br>Docker</td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" width="40"><br>Kubernetes</td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/github.svg" width="40"><br>GitHub Actions</td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/postman.svg" width="40"><br>Postman</td>
+    <td align="center"><img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" width="40"><br>Flutter</td>
   </tr>
 </table>
 
@@ -55,17 +63,17 @@ I’m a **Frontend Engineer** passionate about crafting scalable, high-performan
 
 ## 🚀 Projects  
 
-🔹 **[Movie App (React Native + Appwrite)](https://github.com/adityapandey-102/movies-verse-react-native-app)**  
-Live search, trending section, and custom popularity algorithm.  
+🔹 **[MovieVerse (React Native + Appwrite)](https://github.com/adityapandey-102/movies-verse-react-native-app)**  
+Backend-focused app with secure authentication, trending search, popularity tracking, and dark theme UI.  
 
-🔹 **[LifeTrek (Social Media, Flutter)](https://github.com/adityapandey-102/Life-Trek-Social-Media-App)**  
-Full-featured social platform with posts, comments & dark mode.  
+🔹 **[Expenses Tracker (Spring Boot + MySQL + Docker)](https://github.com/adityapandey-102/Expenses-Tracker-WebApp-Docker)**  
+Containerized backend project with multi-stage Docker build, Nginx, monitoring, and logging.  
 
-🔹 **[YourCart (E-commerce, MERN)](https://github.com/adityapandey-102/YourCartFrontend)**  
-Cart, wishlist, Razorpay checkout & scalable architecture.  
+🔹 **[Acquisitions Backend (Node.js + Neon + Docker)](https://github.com/adityapandey-102/acquisitions)**  
+Secure Node.js backend with rate limiting, bot detection, logging, and containerization for dev & prod.  
 
-🔹 **[Task Tracker (React + Node)](https://github.com/adityapandey-102/taskmanagerFrontend)**  
-Kanban-style task manager with categories, due dates & statuses.  
+🔹 **[YourCart (MERN E-commerce)](https://github.com/adityapandey-102/YourCartFrontend)**  
+Scalable e-commerce frontend with Razorpay integration, wishlist, and cart management.  
 
 ---
 
@@ -89,4 +97,4 @@ Kanban-style task manager with categories, due dates & statuses.
   <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="200" alt="Team GIF">
 </p>
 
-<p align="center">💡 If you're looking for a developer who writes clean, scalable, and impactful code—let’s collaborate! 🚀</p>
+<p align="center">💡 If you're looking for a developer who writes clean, secure, and scalable code—let’s collaborate! 🚀</p>
