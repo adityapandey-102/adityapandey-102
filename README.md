@@ -58,10 +58,7 @@ Internal tools, admin panels, analytics dashboards with **search, pagination, fi
 
 ### 🔹 Performance & Architecture Refactoring
 Improving existing codebases into **clean, modular, and scalable systems**.
-
-</td>
-<td width="40%" align="center">
-<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="260"/>
+###
 </td>
 </tr>
 </table>
