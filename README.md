@@ -18,8 +18,6 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="220"/>
-
 I am a **Full Stack Engineer** focused on **backend architecture, authentication systems, database performance, and scalable web platforms**.
 
 My experience includes building **production systems** with:
@@ -27,7 +25,7 @@ My experience includes building **production systems** with:
 - Modular **Node.js + Express** architecture (controller → service → repository)
 - **PostgreSQL optimization** and scalable query patterns
 - OAuth integrations (Instagram, LinkedIn)
-- AWS S3, Cognito, OpenAI API integrations
+- AWS S3, OpenAI API integrations
 - Migrating large React apps into **Next.js scalable structure**
 - Dashboard systems with search, pagination, filtering, and role workflows
 - Delivering freelance production features remotely
